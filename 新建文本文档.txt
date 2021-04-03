@@ -1,2 +1,0 @@
-proxies:
-- {"name":"🇭🇰香港(中国)-2","server":"香港(中国)-2","type":"ss","country":"🇭🇰 HK","port":1028,"password":"96e381a8582d3b5b0e4115cfa4cf57bbc74726ff78ae33b5343dcadb1aae891a","cipher":"chacha20-ietf-poly1305"}
